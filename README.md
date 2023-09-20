@@ -1,4 +1,4 @@
-Incorporating AriesJS https://aries.js.org/ tutorial documentation into one project to test functionality.
+Incorporating AriesJS https://aries.js.org/, github https://github.com/hyperledger/aries-framework-javascript tutorial documentation into one project to test functionality.
 
 
 # Pre-requisites
