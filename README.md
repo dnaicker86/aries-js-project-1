@@ -10,7 +10,7 @@ Incorporating AriesJS https://aries.js.org/, https://github.com/hyperledger/arie
 5. (optional) Set bash command `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"`
 
 ## Windows 10 Terminal
-To run in `command line` on Windows ensure `gitbin bash`` is setup by running this command:
+To run in `command line` on Windows ensure `git bash`` is setup by running this command:
 - `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"`
 
 # Install
