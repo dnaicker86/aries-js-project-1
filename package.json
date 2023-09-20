@@ -12,9 +12,7 @@
     "@hyperledger/aries-askar-nodejs": "^0.1.0",
     "@hyperledger/indy-vdr-nodejs": "^0.1.0",
     "inquirer": "^8.2.5",
-    "milsymbol": "^2.2.0"
-  },
-  "devDependencies": {
+    "milsymbol": "^2.2.0",
     "@aries-framework/anoncreds": "*",
     "@aries-framework/anoncreds-rs": "*",
     "@aries-framework/askar": "*",
