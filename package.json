@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts"
+    "start": "ts-node ./index.ts"
   },
   "dependencies": {
     "@hyperledger/anoncreds-nodejs": "^0.1.0",
@@ -41,5 +41,6 @@
     "@cosmjs/crypto": "npm:@cosmjs-rn/crypto@^0.27.1"
   },
   "author": "Denver",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
