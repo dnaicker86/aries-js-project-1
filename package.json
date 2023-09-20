@@ -5,25 +5,26 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "ts-node index.ts"
+    "start": "ts-node index.ts"
   },
   "dependencies": {
-    "@hyperledger/indy-vdr-nodejs": "^0.1.0",
     "@hyperledger/anoncreds-nodejs": "^0.1.0",
     "@hyperledger/aries-askar-nodejs": "^0.1.0",
-    "inquirer": "^8.2.5"
+    "@hyperledger/indy-vdr-nodejs": "^0.1.0",
+    "inquirer": "^8.2.5",
+    "milsymbol": "^2.2.0"
   },
   "devDependencies": {
-    "@aries-framework/react-native": "*",
-    "@hyperledger/aries-askar-react-native": "*",
     "@aries-framework/anoncreds": "*",
     "@aries-framework/anoncreds-rs": "*",
     "@aries-framework/askar": "*",
+    "@aries-framework/cheqd": "*",
     "@aries-framework/core": "*",
     "@aries-framework/indy-sdk": "*",
     "@aries-framework/indy-vdr": "*",
-    "@aries-framework/cheqd": "*",
     "@aries-framework/node": "*",
+    "@aries-framework/react-native": "*",
+    "@hyperledger/aries-askar-react-native": "*",
     "@types/figlet": "^1.5.4",
     "@types/indy-sdk": "^1.16.26",
     "@types/inquirer": "^8.2.6",
