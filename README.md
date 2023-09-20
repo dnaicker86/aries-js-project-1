@@ -5,7 +5,7 @@ Incorporating AriesJS https://aries.js.org/, https://github.com/hyperledger/arie
 ## Windows 10 Gitbash
 1. Install GitBash https://git-scm.com/downloads
 2. Install Python3 64 bit https://www.python.org/downloads/windows/
-3. Install NVMSH Node 18.18
+3. Install NVMSH Node 18.18 https://github.com/nvm-sh/nvm `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash`
 4. Install typscript node package globally `npm install -g ts-node`
 5. (optional) Set bash command `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"`
 
