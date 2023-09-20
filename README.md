@@ -1,5 +1,11 @@
 Incorporating AriesJS https://aries.js.org/ tutorial documentation into one project to test functionality.
 
+
+## Windows 10
+1. Install GitBash https://git-scm.com/downloads
+2. Install Python3 64 bit https://www.python.org/downloads/windows/
+3. Install NVMSH Node 18.18 
+
 ## Pre-requisites
 To run in `command line` on Windows ensure `gitbin bash`` is setup by running this command:
 - `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"`
